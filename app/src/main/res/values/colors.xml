@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--<color name="colorPrimary">#47CEAC</color>
+    <color name="colorPrimaryDark">#3EB497</color>
+    <color name="colorAccent">#26799B</color>-->
+
+    <!--<color name="colorPrimary">#4caf50</color>
+    <color name="colorPrimaryDark">#388e3c</color>
+    <color name="colorAccent">#009688</color>-->
+
+    <!--<color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796b</color>
+    <color name="colorAccent">#009688</color>-->
+
+    <color name="colorPrimary">#47ceac</color>
+    <color name="colorPrimaryDark">#36bb9a</color>
+    <color name="colorAccent">#009688</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores del spinner -->
+    <color name="cs1">#F44336</color>
+    <color name="cs2">#4CAF50</color>
+    <color name="cs3">#2196F3</color>
+    <color name="cbg">#FFFFFF</color>
+
+    <color name="pattern_tint">#FF000000</color>
+    <color name="card_background">#0D000000</color>
+    <color name="icon_gas_color">#FF000000</color>
+    <color name="icon_settings_color">#EEEEEE</color>
+
+    <color name="title_color">#FFFFFF</color>
+    <color name="subtitle_color">#EEEEEE</color>
+
+    <color name="bg_color_dialog_settings">#FFFFFF</color>
+    <color name="border_color_dialog_settings">#EEEEEE</color>
+
+    <color name="snackbar_error">#F44336</color>
+    <color name="snackbar_info">#4CAF50</color>
+
+</resources>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Gasolineras</string>
+    <string name="settings">Configuración</string>
+
+    <string name="content_description_icon_gas_station">Icono gasolinera</string>
+
+    <string name="msg_update_list_info">Deslice hacia abajo para obtener el listado actualizado de gasolineras y precios de producto</string>
+    <string name="msg_current_prices">Mostrando el anterior listado descargado. Deslice hacia abajo para obtener el listado actualizado</string>
+    <string name="msg_updated_prices">Listado actualizado</string>
+    <string name="msg_error_get_prices">Error al actualizar el listado</string>
+    <string name="msg_error_get_products">Error al descargar los productos</string>
+    <string name="msg_error_get_locations">Error al descargar los municipios</string>
+    <string name="msg_settings_not_set">Debe establecer la configuración antes de proceder</string>
+    <string name="msg_form_empty_theme">Debe seleccionar un tema</string>
+    <string name="msg_form_empty_product">Debe introducir un producto válido</string>
+    <string name="msg_form_empty_location">Debe introducir un municipio válido</string>
+    <string name="msg_form_empty_list_api">Error interno: faltan listas API</string>
+    <string name="msg_downloading_api_data">Descargando datos API</string>
+
+    <string name="placeholder_name">{nombre}</string>
+    <string name="placeholder_address">{direccion}</string>
+    <string name="placeholder_price">{precio}</string>
+
+    <string name="menu_settings">Configuración</string>
+
+    <string name="btn_save_settings">Aceptar</string>
+    <string name="btn_download_api_data">Refresh API</string>
+
+    <string name="lbl_theme">Tema</string>
+    <string name="lbl_product">Producto</string>
+    <string name="lbl_location">Municipio</string>
+
+    <string name="rb_theme_auto">Auto</string>
+    <string name="rb_theme_bright">Claro</string>
+    <string name="rb_theme_dark">Oscuro</string>
+
+</resources>

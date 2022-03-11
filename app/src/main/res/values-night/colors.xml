@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#571500</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores del spinner -->
+    <color name="cs1">#F44336</color>
+    <color name="cs2">#4CAF50</color>
+    <color name="cs3">#2196F3</color>
+    <color name="cbg">#212121</color>
+
+    <color name="pattern_tint">#FFFFFFFF</color>
+    <color name="card_background">#0DFFFFFF</color>
+    <color name="icon_gas_color">#99FFFFFF</color>
+    <color name="icon_settings_color">#CCCCCC</color>
+
+    <color name="title_color">#DDDDDD</color>
+    <color name="subtitle_color">#CCCCCC</color> <!-- FFBF00 -->
+
+    <color name="bg_color_dialog_settings">#202020</color>
+    <color name="border_color_dialog_settings">#181818</color>
+
+    <color name="snackbar_error">#F44336</color>
+    <color name="snackbar_info">#4CAF50</color>
+
+</resources>
